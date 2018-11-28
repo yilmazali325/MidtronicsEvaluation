@@ -7,6 +7,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.widget.TextView;
 
+import com.squareup.okhttp.Cache;
+import com.squareup.okhttp.OkHttpClient;
+
 import java.util.List;
 
 import retrofit.Call;
